@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Imtiaz Ahmad"
   avatar           : "profile.png"
-  bio              : "<p color: black>Graduate Research Assistant<\p> <a style='color: black;' href='https://privacy.luddy.indiana.edu/'>Privacy Lab</a> <br> <a style='color: black;' href='https://www.indiana.edu/'>Indiana University Bloomington</a>"
+  bio              : "<p style="color:black">Graduate Research Assistant<\p> <a style='color: black;' href='https://privacy.luddy.indiana.edu/'>Privacy Lab</a> <br> <a style='color: black;' href='https://www.indiana.edu/'>Indiana University Bloomington</a>"
   location         : "Bloomington, Indiana"
   employer         :
   pubmed           : ""
