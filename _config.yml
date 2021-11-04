@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Imtiaz Ahmad"
   avatar           : "profile.png"
-  bio              : "Graduate Research Assistant <br><br><a style='color: black;' href='https://privacy.luddy.indiana.edu/'>Privacy Lab</a> <br> <a style='color: black;' href='https://www.indiana.edu/'>Indiana University Bloomington</a>"
+  bio              : "Graduate Research Assistant<br><a style='color: black;' href='https://privacy.luddy.indiana.edu/'>Privacy Lab</a> <br> <a style='color: black;' href='https://www.indiana.edu/'>Indiana University Bloomington</a>"
   location         : "Bloomington, Indiana"
   employer         :
   pubmed           : ""
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/imtiaz-ahmad-7aa94179/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
