@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Imtiaz Ahmad"
 title_separator          : "-"
 name                     : &name "Imtiaz Ahmad"
-description              : &description "personal description"
+description              : &description "Graduate Research Assistant"
 url                      : https://imtiazborshon.github.io/imtiaz.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Imtiazborshon/imtiaz.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Imtiaz Ahmad"
   avatar           : "profile.png"
-  bio              : "Graduate Research Assistant, <a style='color: black;' href='https://privacy.luddy.indiana.edu/'>Privacy Lab</a> & <a style='color: black;' href='https://www.indiana.edu/'>Indiana University Bloomington</a>"
+  bio              : "<p color: black>Graduate Research Assistant<\p> <a style='color: black;' href='https://privacy.luddy.indiana.edu/'>Privacy Lab</a> <br> <a style='color: black;' href='https://www.indiana.edu/'>Indiana University Bloomington</a>"
   location         : "Bloomington, Indiana"
   employer         :
   pubmed           : ""
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/imtiaz-ahmad-7aa94179/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/amiimti"
   vine             :
   weibo            :
   xing             :
