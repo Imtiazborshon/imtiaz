@@ -32,6 +32,7 @@
     padding: 0;
     list-style: none;
     font-size: $type-size-6;
+    color: black;
 
     @include breakpoint($large) {
       @include span(10 of 12 last);
@@ -44,10 +45,12 @@
 
   li {
     display: inline;
+    color: black;
   }
 
   .current {
     font-weight: bold;
+    color: black;
   }
 }
 
@@ -67,6 +70,7 @@
     padding: 0;
     list-style-type: none;
     font-family: $sans-serif;
+    color: black;
   }
 
   li {
@@ -82,6 +86,7 @@
       font-weight: bold;
       line-height: 1.5;
       text-align: center;
+      color: black;
       text-decoration: none;
       color: mix(#fff, $gray, 25%);
       border: 1px solid $light-gray;
@@ -92,7 +97,7 @@
       }
 
       &.current {
-        color: #fff;
+        color: black;
         background: $primary-color;
       }
 
