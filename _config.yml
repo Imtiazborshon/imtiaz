@@ -85,36 +85,13 @@ author:
   bio              : "Graduate Research Assistant<br><a style='color: black;' href='https://privacy.luddy.indiana.edu/'>Privacy Lab</a> <br> <a style='color: black;' href='https://www.indiana.edu/'>Indiana University Bloomington</a>"
   location         : "Bloomington, Indiana"
   employer         :
-  pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=C5oJEOsAAAAJ"
   email            : "imtahmad@iu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : ""
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  github           : 
   linkedin         : "imtiaz-ahmad-7aa94179/"
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "amiimti"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+
 
 
 # Reading Files
