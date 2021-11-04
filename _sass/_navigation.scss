@@ -88,7 +88,6 @@
       text-align: center;
       color: black;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -328,7 +327,7 @@
   a {
     display: block;
     padding: 0.125em 0;
-    color: inherit;
+    color: black;
 
     &:hover {
       text-decoration: underline;
@@ -356,6 +355,7 @@
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
   font-weight: bold;
+  color: black;
 }
 
 .nav__sub-title {
@@ -365,6 +365,7 @@
   font-family: $sans-serif-narrow;
   font-size: $type-size-6;
   font-weight: bold;
+  color: black;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
 }
