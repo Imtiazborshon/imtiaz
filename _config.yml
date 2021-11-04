@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Imtiaz Ahmad"
   avatar           : "profile.png"
-  bio              : "Privacy Zealot"
+  bio              : "Ethnographer of computation and computational ethnographer <br> <br> Assistant Professor at UC San Diego, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a>"
   location         : "Bloomington, Indiana"
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=C5oJEOsAAAAJ"
-  email            : "mailto:imtahmad@iu.edu"
+  email            : "imtahmad@iu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
