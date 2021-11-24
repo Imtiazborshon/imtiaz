@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Click here to download my complete CV](https://github.com/Imtiazborshon/imtiaz.github.io/blob/master/files/Official_Resume.pdf)
+[Click here to download my complete CV](https://drive.google.com/file/d/17ih-KpYWS9jRtapOEWKuAQVu4YilImbB/view?usp=sharing)
