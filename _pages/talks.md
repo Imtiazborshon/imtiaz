@@ -30,8 +30,10 @@ _Online Photo Sharing using Redaction Techniques and Trusted Hardware Platforms 
 
 _Modeling sparsity of planar topologies for wireless multi-hop networks_
 
-
+![](images/The-r-neighborhood-region_W640.jpg)
 
 In this project, we provide a generic analytical model for evaluating sparseness of planar topologies for wireless networks. We derive an analytical expressions that can be used in determining average node degree and the topology size without running simulations or prior to the deployment of real systems. 
+
+Published at [WiOpt,2015](http://opendl.ifip-tc6.org/db/conf/wiopt/wiopt2015/RahmanRAS15.pdf)
 
 
