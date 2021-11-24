@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[J2] **Imtiaz Ahmad**, Rosta Farzan, Apu Kapadia, and Adam J. Lee. 2020. [Tangible Privacy: Towards User-Centric Sensor Designs for Bystander Privacy](https://people.cs.pitt.edu/~adamlee/pubs/2020/ahmad2020cscw.pdf). Proc. ACM Hum.-Comput. Interact.4, CSCW2, Article 116 (Oct. 2020), 28 pages.
+[J2] **Imtiaz Ahmad**, Rosta Farzan, Apu Kapadia, and Adam J. Lee. 2020. [Tangible Privacy: Towards User-Centric Sensor Designs for Bystander Privacy](https://people.cs.pitt.edu/~adamlee/pubs/2020/ahmad2020cscw.pdf). Proceedings of the ACM Journal: Human-Computer Interaction: Computer Supported Cooperative Work and Social Computing (CSCW '20)
 
 [J1] Adam J. Lee, Rosta Farzan, Apu Kapadia, and **Imtiaz Ahmad**. 2020. [Making sense of risk in an increasingly cyber-physical world](https://par.nsf.gov/servlets/purl/10196973). Critical Quarterly 62, 1 (2020), 40–48.
 
