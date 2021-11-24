@@ -11,12 +11,7 @@ author_profile: true
 
 [C1] A. Rahman, N. R. Rasha, **I. Ahmad**, [Modeling sparsity of planar topologies for wireless multi-hop networks](http://opendl.ifip-tc6.org/db/conf/wiopt/wiopt2015/RahmanRAS15.pdf), 2015 13th International Symposium on Modeling and Optimization in Mobile Ad Hoc and Wireless Networks (WiOpt), pp. 339-346, 2015
 
----
-layout: archive
-title: "Workshop Papers and Posters"
-permalink: 
-author_profile: true
----
+**Workshop Papers and Posters**
 
 [W1] **Imtiaz Ahmad**, Leveraging Tangible Mechanisms for Providing a True Senseof Privacy to Bystanders of Smart Devices. Workshop on Designing for Data Awareness: Addressing Privacy and Security Concerns
 About "Smart" Technologies, CSCW 2021.
