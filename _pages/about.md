@@ -1,22 +1,16 @@
 ---
 permalink: /
-title: "IMTIAZ AHMAD"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a PhD candidate in Computer Science at Indiana University Bloomington, supervised by a wonderful human being and the coolest mentor, Professor [Apu Kapadia] (https://homes.luddy.indiana.edu/kapadia/). My research interests lie broadly at the intersection of Privacy and Security, Usable Privacy, and Human-Computer Interaction (HCI), with a particular focus on studying and designing user-centered privacy enhancing technologies for smart internet connected devices.
 
-Apart from academic activities, I have always been passionate about sports. I love playing and analysing Soccer games. Currently, my new goal is to learn playing Tennis by this summer. I also like traveling and roaming around new places. 
+Using contextual interviews, and mixed method research designs, I have investigated how individuals especially bystanders interact and maintain their privacy in shared spaces with smart devices. Grounded on traditional Privacy Theory literatures, I aim to uncover how the modern 'socio-technical' space with the evergrowing presence of smart devices is shaping individuals privacy perceptions, concerns, and their privacy needs in interaction with these devices. My work also involves designing, developing, and evaluating privacy enhancing technologies for such devices especially in the context of human-IoT interaction. 
 
-Recent News
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Before joining the PhD program at Indiana University, I completed my undergraduate from Bangladesh University of Engineering and Technology (BUET) majoring in Computer Science and Engineering. Shortly after completing my undergrad, for a brief time, I worked as a software developer. I also served as a lecturer in the Department of Computer Science and Engineering at United International University, Bangladesh. I have always loved and taken the opportunity to share the ups and downs of my personal growth as an academic and inspire young scholars from Bangladesh to pursue their research career and ambitions.  
 
-
+Apart from academic activities, I have always been passionate about sports. I love playing and analysing Soccer games (Can you guess the name of my favorite club? Hints: It's from Spain and named after a beautiful city ;) ). Currently, my goal is to learn playing Tennis before I graduate. I also like visiting new places and meeting new people. 
