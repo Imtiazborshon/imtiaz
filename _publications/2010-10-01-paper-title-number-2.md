@@ -1,15 +1,1 @@
----
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[J2] **Imtiaz Ahmad**, Rosta Farzan, Apu Kapadia, and Adam J. Lee. 2020. [Tangible Privacy: Towards User-Centric Sensor Designs for Bystander Privacy](https://people.cs.pitt.edu/~adamlee/pubs/2020/ahmad2020cscw.pdf). Proc. ACM Hum.-Comput. Interact.4, CSCW2, Article 116 (Oct. 2020), 28 pages.
