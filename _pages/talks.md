@@ -28,7 +28,7 @@ _Online Photo Sharing using Redaction Techniques and Trusted Hardware Platforms 
 **Method**: Survey Design, Quantitative Analysis
 
 
-<font size="4"> Modeling sparsity of planar topologies for wireless multi-hop networks </font>
+<font size="5"> <i> Modeling sparsity of planar topologies for wireless multi-hop networks </i> </font>
 
 ![](https://github.com/Imtiazborshon/imtiaz.github.io/blob/master/images/wiopt.png)
 In this project, we provide a generic analytical model for evaluating sparseness of planar topologies for wireless networks. We derive an analytical expressions that can be used in determining average node degree and the topology size without running simulations or prior to the deployment of real systems. 
