@@ -7,7 +7,7 @@ author_profile: true
 
 <font size="5"> <i> <b>Privacy Perceptions and Needs of Bystanders of Smart Devices </b></i> </font>
 
-In this study, we investigate how bystanders interact with smart internet connected devices (e.g., Nest Camera, Amazon Echo Show). Through a semi-structured interview study we uncover bystanders' privacy perceptions, their privacy needs, and their current privacy enhancing behaviors around smart devices. The findings uncover the needs for unambiguous privacy notices and hardware-based control mechanisms in smart devices. Based on our qualitative analysis, we identify and define 'tangible privacy' mechanisms as those privacy control and feedback mechanisms that are 'tangible', i.e., manipulated or perceived by touch, and of 'high assurance', i.e., they provide clear confidence and certainty of privacy to observers. Overall, our study provided evidence that people prefer hardware based tangible control and feedback mechanisms. They also want privacy notices that are easy to interpret and clearly communicate the device's actual state to everyone in the vicinity of the device. As the lead researcher, I designed the interview protocol, and performed the qualitative analysis.
+In this study, we investigate how bystanders interact with smart internet connected devices (e.g., Nest Camera, Amazon Echo Show). Through a semi-structured interview study (N=19) we uncover bystanders' privacy perceptions, their privacy needs, and their current privacy enhancing behaviors around smart devices. The findings uncover the needs for unambiguous privacy notices and hardware-based control mechanisms in smart devices. Based on our qualitative analysis, we identify and define 'tangible privacy' mechanisms as those privacy control and feedback mechanisms that are 'tangible', i.e., manipulated or perceived by touch, and of 'high assurance', i.e., they provide clear confidence and certainty of privacy to observers. Overall, our study provided evidence that people prefer hardware based tangible control and feedback mechanisms. They also want privacy notices that are easy to interpret and clearly communicate the device's actual state to everyone in the vicinity of the device. As the lead researcher, I designed the interview protocol, and performed the qualitative analysis.
 
 **Method**: Semi-structured interviews, Qualitative analysis (thematic analysis)
 
@@ -25,7 +25,7 @@ Currently under review
 
 <font size="5"> <i> <b>Online Photo Sharing Using Redaction Techniques and Trusted Hardware Platforms </b></i> </font>
 
-In this study, we investigate how different redaction techniques influence users' photo sharing behavior. We also study how the use of trusted hardware platforms (e.g., intel SGX) influence their photo sharing behavior. We conducted a between-subjects online experiment where we meause users sharing likelihood of their photos based on different types of redaction techniques. This study is on-going. 
+In this study, we investigate how different redaction techniques influence users' online photo sharing behavior. We also study how the use of trusted hardware platforms (e.g., intel SGX) influence their online photo sharing behavior. We conducted a between-subjects online experiment where we meause users sharing likelihood of their photos based on different types of redaction techniques. This study is on-going. 
 
 **Method**: Survey Design, Quantitative Analysis (statistical analyses)
 
