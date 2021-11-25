@@ -33,7 +33,7 @@ In this study, we investigate how different redaction techniques influence users
 <font size="5"> <i> <b>Modeling Sparsity of Planar Topologies for Wireless Multi-hop Networks </b></i> </font>
 
 
-In this project, we provide a generic analytical model for evaluating sparseness of planar topologies for wireless networks. We derive an analytical expressions that can be used in determining average node degree and the topology size without running simulations or prior to the deployment of real systems. 
+In this study, we provide a generic analytical model for evaluating sparseness of planar topologies for wireless networks. We derive an analytical expressions that can be used in determining average node degree and the topology size without running simulations or prior to the deployment of real systems. 
 
 Published at [WiOpt 2015](http://opendl.ifip-tc6.org/db/conf/wiopt/wiopt2015/RahmanRAS15.pdf)
 
