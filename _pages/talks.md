@@ -28,7 +28,7 @@ _Online Photo Sharing using Redaction Techniques and Trusted Hardware Platforms 
 **Method**: Survey Design, Quantitative Analysis
 
 
-<font size="5"> <i> Modeling sparsity of planar topologies for wireless multi-hop networks </i> </font>
+<font size="5"> <i> <b>Modeling Sparsity of Planar Topologies for Wireless Multi-hop Networks </b></i> </font>
 
 ![](https://github.com/Imtiazborshon/imtiaz.github.io/blob/master/images/wiopt.png)
 
