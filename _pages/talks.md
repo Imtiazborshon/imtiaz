@@ -31,7 +31,7 @@ Currently under review
 <font size="5"> <i> <b>Modeling Sparsity of Planar Topologies for Wireless Multi-hop Networks </b></i> </font>
 
 
-[](https://drive.google.com/file/d/15n-nEs0PpqdwzCvSkilGvEdQkQm_3NHR/view?usp=sharing)
+![hj](https://drive.google.com/file/d/15n-nEs0PpqdwzCvSkilGvEdQkQm_3NHR/view?usp=sharing)
 
 In this project, we provide a generic analytical model for evaluating sparseness of planar topologies for wireless networks. We derive an analytical expressions that can be used in determining average node degree and the topology size without running simulations or prior to the deployment of real systems. 
 
