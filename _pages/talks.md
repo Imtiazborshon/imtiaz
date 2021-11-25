@@ -7,9 +7,10 @@ author_profile: true
 
 <font size="5"> <i> <b>Privacy Perceptions and Needs of Bystanders of Smart Devices </b></i> </font>
 
-In this project, we investigate how bystanders interact with smart internet connected devices (e.g., Nest Camera, Amazon Echo Show). Through a semi-structured interview study we uncover bystanders' privacy perceptions, their privacy needs, and their current privacy enhancing behaviors around smart devices. The findings uncover the needs for unambiguous privacy notices and hardware-based control mechanisms in smart devices. Based on our qualitative findings, we identify and define 'tangible privacy' mechanisms as those privacycontrol and feedback mechanisms that are 'tangible', i.e., manipulated or perceived by touch, and of 'high assurance', i.e., they provide clear confidence and certainty of privacy to observers. Overall, our study provided evidence that people prefer hardware based tangible control and feedback mechanisms. They also want privacy notices that are easy to interpret and clearly communicate the device's actual state to everyone in the vicinity of the device.
+In this project, we investigate how bystanders interact with smart internet connected devices (e.g., Nest Camera, Amazon Echo Show). Through a semi-structured interview study we uncover bystanders' privacy perceptions, their privacy needs, and their current privacy enhancing behaviors around smart devices. The findings uncover the needs for unambiguous privacy notices and hardware-based control mechanisms in smart devices. Based on our qualitative analysis, we identify and define 'tangible privacy' mechanisms as those privacy control and feedback mechanisms that are 'tangible', i.e., manipulated or perceived by touch, and of 'high assurance', i.e., they provide clear confidence and certainty of privacy to observers. Overall, our study provided evidence that people prefer hardware based tangible control and feedback mechanisms. They also want privacy notices that are easy to interpret and clearly communicate the device's actual state to everyone in the vicinity of the device.
 
 **Method**: Contextual interviews, Qualitative analysis
+
 Publised in [CSCW 2020](https://people.cs.pitt.edu/~adamlee/pubs/2020/ahmad2020cscw.pdf)
 
 
