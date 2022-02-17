@@ -10,7 +10,7 @@ author_profile: true
 
 [J1] Adam J. Lee, Rosta Farzan, Apu Kapadia, and **Imtiaz Ahmad**. 2020. [Making sense of risk in an increasingly cyber-physical world](https://par.nsf.gov/servlets/purl/10196973). Critical Quarterly 62, 1 (2020), 40–48.
 
-[C1] A. Rahman, N. R. Rasha, **I. Ahmad**, [Modeling sparsity of planar topologies for wireless multi-hop networks](http://opendl.ifip-tc6.org/db/conf/wiopt/wiopt2015/RahmanRAS15.pdf), 2015 13th International Symposium on Modeling and Optimization in Mobile Ad Hoc and Wireless Networks (WiOpt), pp. 339-346, 2015
+[C1] A. Rahman, N. R. Rasha, **I. Ahmad**, S. Samyoun [Modeling sparsity of planar topologies for wireless multi-hop networks](http://opendl.ifip-tc6.org/db/conf/wiopt/wiopt2015/RahmanRAS15.pdf), 2015 13th International Symposium on Modeling and Optimization in Mobile Ad Hoc and Wireless Networks (WiOpt), pp. 339-346, 2015
 
 **Workshop Papers and Posters**
 
