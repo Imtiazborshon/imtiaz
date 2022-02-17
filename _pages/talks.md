@@ -20,7 +20,7 @@ In this study, we investigate how bystanders evaluate smart devices that incorpo
 
 **Method**: Survey Design, Qualitative Analysis (thematic analysis), Quantitative Analysis (statistical analysis), Prototyping, Experimental Study Design
 
-Currently under review
+To Appear in CSCW 2022
 
 
 <font size="5"> <i> <b>Online Photo Sharing Using Redaction Techniques and Trusted Hardware Platforms </b></i> </font>
@@ -29,6 +29,7 @@ In this study, we investigate how different redaction techniques influence users
 
 **Method**: Survey Design, Quantitative Analysis (statistical analyses)
 
+Currently Under Review
 
 <font size="5"> <i> <b>Modeling Sparsity of Planar Topologies for Wireless Multi-hop Networks </b></i> </font>
 
