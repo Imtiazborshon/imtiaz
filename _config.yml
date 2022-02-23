@@ -11,7 +11,7 @@ title                    : "About"
 title_separator          : "-"
 name                     : &name "Imtiaz Ahmad"
 description              : &description "PhD Candidate"
-url                      : https://imtiazborshon.github.io/imtiaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://imtiaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Imtiazborshon/imtiaz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Imtiaz Ahmad"
-  avatar           : "profile.png"
+  avatar           : "received_1167413880757940~4.jpeg"
   bio              : "PhD Candidate<br><a style='color: black;' href='https://privacy.luddy.indiana.edu/'>Privacy Lab</a> <br> <a style='color: black;' href='https://www.indiana.edu/'>Indiana University Bloomington</a>"
   location         : "Bloomington, Indiana"
   employer         :
