@@ -4,7 +4,8 @@ title: "Refereed Journal and Conference Papers"
 permalink: /publications/
 author_profile: true
 ---
-[J3] **Imtiaz Ahmad**, Taslima Akter, Zachary Buher, Rosta Farzan, Apu Kapadia, and Adam J. Lee. 2022. Tangible Privacy for Smart Voice Assistants: Measuring Users' Attitudes Towards User-Centric Sensor Designs. Proceedings of the ACM Journal: Human-Computer Interaction: Computer Supported Cooperative Work and Social Computing (CSCW ‘22) [To Appear]
+[J3] **Imtiaz Ahmad**, Taslima Akter, Zachary Buher, Rosta Farzan, Apu Kapadia, and Adam J. Lee. 2022. Tangible Privacy for Smart Voice Assistants: Bystanders’
+Perceptions of Physical Device Controls (https://homes.luddy.indiana.edu/kapadia/papers/ahmad-tangible-cscw22-preprint.pdf). Proceedings of the ACM Journal: Human-Computer Interaction: Computer Supported Cooperative Work and Social Computing (CSCW ‘22) [To Appear]
 
 [J2] **Imtiaz Ahmad**, Rosta Farzan, Apu Kapadia, and Adam J. Lee. 2020. [Tangible Privacy: Towards User-Centric Sensor Designs for Bystander Privacy](https://people.cs.pitt.edu/~adamlee/pubs/2020/ahmad2020cscw.pdf). Proceedings of the ACM Journal: Human-Computer Interaction: Computer Supported Cooperative Work and Social Computing (CSCW '20)
 
