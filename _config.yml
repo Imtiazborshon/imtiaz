@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Imtiaz Ahmad"
-description              : &description "PhD Candidate"
+description              : &description "Postdoctoral Fellow"
 url                      : https://imtiaazahmad.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imtiaazahmad/home"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Imtiaz Ahmad"
   avatar           : "new_may_pic.jpeg"
-  bio              : "PhD Candidate<br><a style='color: black;' href='https://privacy.luddy.indiana.edu/'>Privacy Lab</a> <br> <a style='color: black;' href='https://www.indiana.edu/'>Indiana University Bloomington</a>"
-  location         : "Bloomington, Indiana"
+  bio              : "Postdoctoral Fellow<br><a style='color: black;' href='https://www.temple.edu/'>Temple University</a>"
+  location         : "Philadelphia, PA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=C5oJEOsAAAAJ"
-  email            : "imtahmad@iu.edu"
+  email            : "imtiaz.ahmad@temple.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : 
   linkedin         : "imtiaz-ahmad-7aa94179/"
