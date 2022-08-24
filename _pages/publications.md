@@ -17,7 +17,7 @@ Perceptions of Physical Device Controls](https://homes.luddy.indiana.edu/kapadia
 
 **Workshop Papers and Posters**
 
-[W1] **Imtiaz Ahmad**, Leveraging Tangible Mechanisms for Providing a True Sense of Privacy to Bystanders of Smart Devices. Workshop on Designing for Data Awareness: Addressing Privacy and Security Concerns About "Smart" Technologies, CSCW 2021.
+[W1] **Imtiaz Ahmad**, [Leveraging Tangible Mechanisms for Providing a True Sense of Privacy to Bystanders of Smart Devices](https://github.com/imtiaazahmad/home/blob/master/position_paper_tangible_privacy.pdf). Workshop on Designing for Data Awareness: Addressing Privacy and Security Concerns About "Smart" Technologies, CSCW 2021.
 
 [P2] Srishti Kama, Sabila Nawshin, **Imtiaz Ahmad**, Apu Kapadia, Donald Williamson, Understanding Privacy Perceptions of Young Adults towards AI Based Voice Assistants, Luddy Spring Research, Indiana University Bloomington.
 
